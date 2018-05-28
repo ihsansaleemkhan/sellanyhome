@@ -8,7 +8,7 @@
                     <li>
                         <img src="uploads/slide-one.jpg" alt="15421 Southwest 39th Terrace" />
                         <div class="container">
-                            <div class="flex-caption">
+                       {{--     <div class="flex-caption">
                                 <div class="caption-title">
                                     <h3><a href="{{route('property-single')}}">15421 Southwest 39th Terrace</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, se</p>
@@ -17,13 +17,13 @@
                                     <p class="caption-status">For Rent</p>
                                     <p class="caption-price"><sup class="price-curr">$</sup>3,850</p>
                                 </div>
-                            </div>
+                            </div>--}}
                         </div>
                     </li>
                     <li>
                         <img src="uploads/slide-two.png" alt="700 Front Street, Key West, FL" />
                         <div class="container">
-                            <div class="flex-caption">
+                         {{--   <div class="flex-caption">
                                 <div class="caption-title">
                                     <h3><a href="{{route('property-single')}}">700 Front Street, Key West, FL</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, se</p>
@@ -32,13 +32,13 @@
                                     <p class="caption-status">For Sale</p>
                                     <p class="caption-price"><sup class="price-curr">$</sup>34,400</p>
                                 </div>
-                            </div>
+                            </div>--}}
                         </div>
                     </li>
                     <li>
                         <img src="uploads/slide-three.jpg" alt="1903 Hollywood Boulevard" />
                         <div class="container">
-                            <div class="flex-caption">
+                     {{--       <div class="flex-caption">
                                 <div class="capti{{route('property-single')}}">1903 Hollywood Boulevard</a></h3>
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, se</p>
                                 </div>
@@ -46,7 +46,7 @@
                                     <p class="caption-status">For Sale</p>
                                     <p class="caption-price"><sup class="price-curr">$</sup>9,800</p>
                                 </div>
-                            </div>
+                            </div>--}}
                         </div>
                     </li>
                 </ul>

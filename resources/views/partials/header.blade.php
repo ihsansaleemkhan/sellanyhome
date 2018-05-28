@@ -33,13 +33,13 @@
                 <div class="row-fluid">
                     <div class="pull-left">
                         <!---------------------------- #Site Logo# ------------------------->
-                        <a href="http://bit.do/bromq" title="SellAnyHome.lk" rel="home"><img class="site-logo" src="images/logo.png" alt="Real Expert" /></a>
+                        <a href="{{route('home')}}" title="SellAnyHome.lk" rel="home"><img class="site-logo" width="80" height="20"  src="images/logo.png" alt="sellanyhome.lk" /></a>
                         <!------------------------------------------------------------------>
                     </div>
                     <div class="pull-right">
                         <div class="top-menu">
                             <!----------------------------------- #Contact Information# ------------------------------------------>
-                            <span class="contact-info"><i class="contact-email"></i><a href="#">support@sellanyhome.com</a></span>
+                            <span class="contact-info"><i class="contact-email"></i><a href="#">sellanyhome.lk@gmail.com</a></span>
                             <span class="contact-info"><i class="contact-phone"></i>0776776712</span>
                             <!---------------------------------------------------------------------------------------------------->
                         </div>
