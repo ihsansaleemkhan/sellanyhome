@@ -11,7 +11,7 @@
         <div class="container">
             <div id="contact-18" class="post-18 page type-page status-publish hentry" >
                 <!-----------#Leave this line alone, go to the bottom to edit your location#--------->
-                <div id="contact_map"></div><!-- /#contact-map -->
+              {{--  <div id="contact_map"></div>--}}<!-- /#contact-map -->
                 <!----------------------------------------------------------------------------------->
                 <div class="row-fluid clearfix" >
                     <div class="span9">
@@ -38,10 +38,10 @@
                     <div class="span3">
                         <div class="contact-page-info">
                             <address>
-                                <div class="company-name">Envato HQ</div>
+                                <div class="company-name">sellanyhome.lk</div>
                                 <div class="company-address">12345 some street, Anyplase<br />Country</div>
-                                <div class="company-phone"><i class="icon-phone"></i>+61 23 456 789 </div>
-                                <div class="company-email"><i class="icon-envelope"></i><a href="mailto:support@envato.com">support@envato.com</a></div>
+                                <div class="company-phone"><i class="icon-phone"></i>0776776712</div>
+                                <div class="company-email"><i class="icon-envelope"></i><a href="mailto:support@envato.com">sellanyhome.lk@gmail.com</a></div>
                                 <div class="company-information">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat dolor nibh. Cum sociis</div>
                             </address>
                         </div><!-- /.contact-page-info -->

@@ -74,12 +74,12 @@
                                                 <li id="menu-item-1870" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1870"><a href="property-listings-grid.html">Villas</a></li>
                                             </ul>
                                         </li>--}}
-                                        <li id="menu-item-1648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1648"><a class="dropdown-toggle" href="{{route('agents')}}">Agents</a>
+                                   {{--     <li id="menu-item-1648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1648"><a class="dropdown-toggle" href="{{route('agents')}}">Agents</a>
                                             <ul class="dropdown-menu">
                                                 <li id="menu-item-1730" class="menu-item menu-item-type-post_type menu-item-object-agent menu-item-1730"><a href="{{route('agent-single')}}">Julianne Hough</a></li>
                                                 <li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-agent menu-item-1731"><a href="{{route('agent-single')}}">Ben Dover</a></li>
                                             </ul>
-                                        </li>
+                                        </li>--}}
                                       {{--  <li id="menu-item-1589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1589"><a class="dropdown-toggle" href="blog.html">Blog</a>
                                         </li>--}}
                                         <li id="menu-item-1592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1592"><a href="{{route('contact-us')}}">Contact Us</a></li>

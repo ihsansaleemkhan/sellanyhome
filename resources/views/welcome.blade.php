@@ -203,153 +203,8 @@
                         </div>
                     </article>
                 </div>
-                <div class="span3">
-                    <article class="property-item">
-                        <div class="property-images">
-                            <a href="{{route('property-single')}}" title="3015 Grand Avenue, CocoWalk">
-                                <img width="540" height="360" src="uploads/for-rent.jpg" class="status-28 wp-post-image" alt="3015 Grand Avenue, CocoWalk" title="3015 Grand Avenue, CocoWalk" />
-                            </a>
-                            <div class="property-status status-28-text">For Rent</div>
-                        </div><!-- /.property-images -->
-                        <div class="property-attribute">
-                            <h3 class="attribute-title">
-                                <a href="{{route('property-single')}}" title="3015 Grand Avenue, CocoWalk" >3015 Grand Avenue, CocoWalk</a>
-                                <i class="icon-heart"></i>
-                            </h3>
-                            <span class="attribute-city">Miami</span>
-                            <div class="attribute-price">
-                                <span class="attr-pricing"><sup class="price-curr">$</sup>16,000</span>
-                            </div>
-                        </div>
-                        <div class="property-meta clearfix">
-                            <div class="meta-size meta-block"><i class="ico-size"></i><span class="meta-text">250 M</span></div>
-                            <div class="meta-bedroom meta-block"><i class="ico-bedroom"></i><span class="meta-text">4</span></div>
-                            <div class="meta-bathroom meta-block"><i class="ico-bathroom"></i><span class="meta-text">4</span></div>
-                        </div>
-                    </article>
-                </div>
-                <div class="span3">
-                    <article class="property-item">
-                        <div class="property-images">
-                            <a href="{{route('property-single')}}" title="1200 Anastasia Avenue, Coral Gables"><img width="540" height="360" src="uploads/For-Sale.jpg" class="status-35 wp-post-image" alt="1200 Anastasia Avenue, Coral Gables" title="1200 Anastasia Avenue, Coral Gables" /></a>
-                            <div class="property-status status-35-text">On Sale</div>
-                        </div><!-- /.property-images -->
-                        <div class="property-attribute">
-                            <h3 class="attribute-title"><a href="{{route('property-single')}}" title="1200 Anastasia Avenue, Coral Gables" >1200 Anastasia Avenue, Cora...</a><i class="icon-heart"></i></h3>
-                            <span class="attribute-city">Miami</span>
-                            <div class="attribute-price">
-                                <span class="attr-pricing"><sup class="price-curr">$</sup>5,600</span>
-                            </div>
-                        </div>
-                        <div class="property-meta clearfix">
-                            <div class="meta-size meta-block"><i class="ico-size"></i><span class="meta-text">200M</span></div>
-                            <div class="meta-bedroom meta-block"><i class="ico-bedroom"></i><span class="meta-text">3</span></div>
-                            <div class="meta-bathroom meta-block"><i class="ico-bathroom"></i><span class="meta-text">4</span></div>
-                        </div>
-                    </article>
-                </div>
-                <div class="span3">
-                    <article class="property-item">
-                        <div class="property-images">
-                            <a href="{{route('property-single')}}" title="60 Merrick Way, Miami"><img width="540" height="360" src="uploads/for-rent.jpg" class="status-28 wp-post-image" alt="60 Merrick Way, Miami" title="60 Merrick Way, Miami" /></a>						<div class="property-status status-28-text">For Rent</div>
-                        </div><!-- /.property-images -->
-                        <div class="property-attribute">
-                            <h3 class="attribute-title"><a href="{{route('property-single')}}" title="60 Merrick Way, Miami" >60 Merrick Way, Miami</a><i class="icon-heart"></i></h3>
-                            <span class="attribute-city">Miami</span>
-                            <div class="attribute-price">
-                                <span class="attr-pricing"><sup class="price-curr">$</sup>5,000</span>
-                            </div>
-                        </div>
-                        <div class="property-meta clearfix">
-                            <div class="meta-size meta-block"><i class="ico-size"></i><span class="meta-text">280M</span></div>
-                            <div class="meta-bedroom meta-block"><i class="ico-bedroom"></i><span class="meta-text">4</span></div>
-                            <div class="meta-bathroom meta-block"><i class="ico-bathroom"></i><span class="meta-text">6</span></div>
-                        </div>
-                    </article>
-                </div>
             </div>
             <div class="row-fluid">
-                <div class="span3">
-                    <article class="property-item">
-                        <div class="property-images">
-                            <a href="{{route('property-single')}}" title="15421 Southwest 39th Terrace"><img width="540" height="360" src="uploads/for-rent.jpg" class="status-28 wp-post-image" alt="15421 Southwest 39th Terrace" title="15421 Southwest 39th Terrace" /></a>						<div class="property-status status-28-text">For Rent</div>
-                        </div><!-- /.property-images -->
-                        <div class="property-attribute">
-                            <h3 class="attribute-title"><a href="{{route('property-single')}}" title="15421 Southwest 39th Terrace" >15421 Southwest 39th Terrac...</a><i class="icon-heart"></i></h3>
-                            <span class="attribute-city">Miami</span>
-                            <div class="attribute-price">
-                                <span class="attr-pricing"><sup class="price-curr">$</sup>3,850</span>
-                            </div>
-                        </div>
-                        <div class="property-meta clearfix">
-                            <div class="meta-size meta-block"><i class="ico-size"></i><span class="meta-text">240 M</span></div>
-                            <div class="meta-bedroom meta-block"><i class="ico-bedroom"></i><span class="meta-text">3</span></div>
-                            <div class="meta-bathroom meta-block"><i class="ico-bathroom"></i><span class="meta-text">2</span></div>
-                        </div>
-                    </article>
-                </div>
-                <div class="span3">
-                    <article class="property-item">
-                        <div class="property-images">
-                            <a href="{{route('property-single')}}" title="700 Front Street, Key West, FL"><img width="540" height="360" src="uploads/For-Sale.jpg" class="status-35 wp-post-image" alt="700 Front Street, Key West, FL" title="700 Front Street, Key West, FL" /></a>						<div class="property-status status-35-text">On Sale</div>
-                        </div><!-- /.property-images -->
-                        <div class="property-attribute">
-                            <h3 class="attribute-title">
-                                <a href="{{route('property-single')}}" title="700 Front Street, Key West, FL" >700 Front Street, Key West,...</a>
-                                <i class="icon-heart"></i>
-                            </h3>
-                            <span class="attribute-city">Miami</span>
-                            <div class="attribute-price">
-                                <span class="attr-pricing"><sup class="price-curr">$</sup>34,400</span>
-                            </div>
-                        </div>
-                        <div class="property-meta clearfix">
-                            <div class="meta-size meta-block"><i class="ico-size"></i><span class="meta-text">200M</span></div>
-                            <div class="meta-bedroom meta-block"><i class="ico-bedroom"></i><span class="meta-text">4</span></div>
-                            <div class="meta-bathroom meta-block"><i class="ico-bathroom"></i><span class="meta-text">5</span></div>
-                        </div>
-                    </article>
-                </div>
-                <div class="span3">
-                    <article class="property-item">
-                        <div class="property-images">
-                            <a href="{{route('property-single')}}" title="1903 Hollywood Boulevard"><img width="540" height="360" src="uploads/For-Sale.jpg" class="status-35 wp-post-image" alt="1903 Hollywood Boulevard" title="1903 Hollywood Boulevard" /></a>
-                            <div class="property-status status-35-text">On Sale</div>
-                        </div><!-- /.property-images -->
-                        <div class="property-attribute">
-                            <h3 class="attribute-title"><a href="{{route('property-single')}}" title="1903 Hollywood Boulevard" >1903 Hollywood Boulevard</a><i class="icon-heart"></i></h3>
-                            <span class="attribute-city">Toronto</span>
-                            <div class="attribute-price">
-                                <span class="attr-pricing"><sup class="price-curr">$</sup>9,800</span>
-                            </div>
-                        </div>
-                        <div class="property-meta clearfix">
-                            <div class="meta-size meta-block"><i class="ico-size"></i><span class="meta-text">450 M</span></div>
-                            <div class="meta-bedroom meta-block"><i class="ico-bedroom"></i><span class="meta-text">3</span></div>
-                            <div class="meta-bathroom meta-block"><i class="ico-bathroom"></i><span class="meta-text">4</span></div>
-                        </div>
-                    </article>
-                </div>
-                <div class="span3">
-                    <article class="property-item">
-                        <div class="property-images">
-                            <a href="{{route('property-single')}}" title="401 Biscayne Boulevard, Miami">
-                                <img width="540" height="360" src="uploads/for-rent.jpg" class="status-28 wp-post-image" alt="401 Biscayne Boulevard, Miami" title="401 Biscayne Boulevard, Miami" /></a>						<div class="property-status status-28-text">For Rent</div>
-                        </div><!-- /.property-images -->
-                        <div class="property-attribute">
-                            <h3 class="attribute-title"><a href="{{route('property-single')}}" title="401 Biscayne Boulevard, Miami" >401 Biscayne Boulevard, Mia...</a><i class="icon-heart"></i></h3>
-                            <span class="attribute-city">Miami</span>
-                            <div class="attribute-price">
-                                <span class="attr-pricing"><sup class="price-curr">$</sup>45,000</span>
-                            </div>
-                        </div>
-                        <div class="property-meta clearfix">
-                            <div class="meta-size meta-block"><i class="ico-size"></i><span class="meta-text">300M</span></div>
-                            <div class="meta-bedroom meta-block"><i class="ico-bedroom"></i><span class="meta-text">5</span></div>
-                            <div class="meta-bathroom meta-block"><i class="ico-bathroom"></i><span class="meta-text">7</span></div>
-                        </div>
-                    </article>
-                </div>
             </div><!-- /.row-fluid -->
         </div><!-- /#property_list -->
         <div id="property_info">
@@ -533,7 +388,7 @@
                 </div><!-- /.jcarousel -->
             </div><!-- /.container -->
         </div><!-- /#property_info -->
-        <div id="property_partner">
+     {{--   <div id="property_partner">
             <div class="container">
                 <header class="partner-header">
                     <h3 class="partner-title">Our Partners</h3>
@@ -595,6 +450,6 @@
                     </div>
                 </div>
             </div>
-        </div><!-- /#property_partner -->
+        </div><!-- /#property_partner -->--}}
     </div><!-- /.content-wrapper -->
 @include('partials.footer')
