@@ -100,11 +100,11 @@
                 </section><!-- #content -->
                 <section id="sidebar" class="span3" role="complementary">
                     <aside id="property_agent-2" class="widget property-agent">
-                        <h3 class="widget-title">Agent Info</h3>
+                        <h3 class="widget-title">Contact Info</h3>
                         <div class="content-widget"><img width="150" height="150" src="uploads/dummy-150x150.png" class="alignleft agent-widget wp-post-image" alt="agent-john-due" />
-                            <div class="agent-widget-name">Julianne Hough</div>
-                            <div class="agent-widget-phone"><i class="icon-phone"></i>+215 (800) 4567</div>
-                            <div class="agent-widget-email"><i class="icon-envelope"></i>agent@envato.com</div>
+                            <div class="agent-widget-name">sellanyhome.lk</div>
+                            <div class="agent-widget-phone"><i class="icon-phone"></i>0776776712</div>
+                            <div class="agent-widget-email"><i class="icon-envelope"></i>sellanyhome.lk@gmail.com</div>
                             <div class="clear"></div>
                             <div class="agent-widget-excerpt">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidu</div><p>&nbsp;</p>
                             <div class="agent-desc"><a role="button" data-toggle="modal" class="button button-search-widget" href="#contactAgent">Contact Agent</a></div></div><!-- /.content-widget -->
